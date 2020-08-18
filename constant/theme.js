@@ -3,6 +3,7 @@ const colors = {
   primary: "#0AC4BA",
   secondary: "#2BDA8E",
   tertiary: "#FFE358",
+  success: "#73EA62",
   black: "#323643",
   white: "#FFFFFF",
   gray: "#9DA3B4",
